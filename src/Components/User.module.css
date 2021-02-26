@@ -1,0 +1,15 @@
+.card__div {
+    display: flex;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.card__div img {
+    margin: 10px;
+}
+
+.navbar {
+    margin: 10px;
+    font-weight: 600;
+}
